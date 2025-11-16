@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# Toy homebrew binaries
+*.thb
+*.nro
